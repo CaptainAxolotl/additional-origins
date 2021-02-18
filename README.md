@@ -59,3 +59,9 @@ Similarly if you want the Origins version of the origins I edited, you can remov
 -Canine by @Ilovekatesomuch ඞ  (with some minor power tweaks)
 
 -Slimeling by @Jimothy (with minor naming tweaks)
+
+# Updates:
+
+-Blazeborn is now passive with other blaze but aggros other blaze if it initiates combat
+
+-Zombie: reverted zombie neutrality because it was bugged
