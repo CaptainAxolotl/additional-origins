@@ -52,6 +52,7 @@ Additional Origins for the Minecraft Origins Mod
 # Updates:
 
 -Blazeborn is now passive with other blaze but aggros other blaze if it initiates combat
+
 -Zombie: reverted zombie neutrality because it was bugged
  
 If for any reason you don't want a particular origin in this pack you can go to:
