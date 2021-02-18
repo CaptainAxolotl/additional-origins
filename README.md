@@ -1,7 +1,7 @@
 # Additional Origins:
 Additional Origins for the Minecraft Origins Mod
 
-In order to use this datapack with the Origins Mod, simply download this zip file and put in your minecraft world's datapacks folder. This requires the Origins Mod to work! Get the mod here: https://www.curseforge.com/minecraft/mc-mods/origins
+In order to use this datapack with the Origins Mod, simply download the additional.zip file and put in your minecraft world's datapacks folder. This requires the Origins Mod to work! Get the mod here: https://www.curseforge.com/minecraft/mc-mods/origins
 
 -Zombie: with help from @Lily Arlatto
 
