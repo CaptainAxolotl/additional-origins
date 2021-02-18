@@ -3,6 +3,8 @@ Additional Origins for the Minecraft Origins Mod
 
 In order to use this datapack with the Origins Mod, simply download the additional.zip file and put in your minecraft world's datapacks folder. This requires the Origins Mod to work! Get the mod here: https://www.curseforge.com/minecraft/mc-mods/origins
 
+Check out the Origins Mod Discord Server for more datapacks or help here: https://discord.gg/9SXCFKjP
+
 -Zombie: with help from @Lily Arlatto
 
 -Wither Skeleton
