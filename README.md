@@ -60,6 +60,8 @@ Similarly if you want a datapack with the original Origins without my edits, use
 
 -Slimeling by @Jimothy (with minor naming tweaks)
 
+-Strayborn by @Joe (with minor power tweaks)
+
 # Updates:
 
 2/17/2021 5:30 p.m. PST 
@@ -71,3 +73,9 @@ Similarly if you want a datapack with the original Origins without my edits, use
 2/17/2021 5:50 p.m. PST 
 
 -Ovine: added "Scatter" power
+
+2/18/2021 2:00 p.m. PST
+
+-Axolotl/Merling: removed particle effects from Hold Breath power
+
+-Added Strayborn origin by @Joe
