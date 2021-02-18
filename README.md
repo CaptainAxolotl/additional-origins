@@ -1,7 +1,5 @@
-# additional-origins
+# Additional Origins:
 Additional Origins for the Minecraft Origins Mod
-
-My Additional Origins:
 
 -Zombie: with help from @Lily Arlatto
 
