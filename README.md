@@ -8,7 +8,7 @@ Check out the Origins Mod Discord Server for more datapacks or help here: https:
 If for any reason you don't want a particular origin in this pack you can go to:
 "additional" ---> "data" ---> "origins" ---> "origin_layers" and edit the origin.json file removing the origins you don't want. 
 
-Similarly if you want the Origins version of the origins I edited, you can remove the "origin" folder in the same folder as "origin_layers" or edit the files in the folder as you see fit!
+Similarly if you want the Origins version of the origins I edited, you can remove the "origin" folder in the same folder as "origin_layers" or remove the particular files in the folder as you see fit, while also updating the origin.json file as explained above.
 
 # Origins by Captain Axolotl:
 
