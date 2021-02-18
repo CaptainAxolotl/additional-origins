@@ -19,7 +19,7 @@ Check out the Origins Mod Discord Server for more datapacks or help here: https:
 
 -Ovine (sheep)
 
-# Modified Origins:
+# Modified Origins from the Origins Mod:
 
 -Phantom: much like the Origins version but can see farther while phasing underground
 
