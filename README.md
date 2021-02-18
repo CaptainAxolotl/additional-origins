@@ -1,7 +1,10 @@
 # Additional Origins:
 Additional Origins for the Minecraft Origins Mod
+
 -Zombie: with help from @Lily Arlatto
+
 -Wither Skeleton
+
 -Axolotl
 
 -Vulpine (fox): inspired by Canine by @Ilovekatesomuch ඞ 
@@ -9,6 +12,8 @@ Additional Origins for the Minecraft Origins Mod
 -Leporine (rabbit)
 
 -Ovine (sheep)
+
+# Modified Origins:
 
 -Phantom: much like the Origins version but can see farther while phasing underground
 
@@ -18,9 +23,11 @@ Additional Origins for the Minecraft Origins Mod
 
 -Blazeborn: much like the Origins version but is passive with other blaze
 
--Zombie: reverted zombie neutrality because it was bugged
+-Elytrian: much like the Origins version but flight power works differently, made by @Defhunta
 
-Noteable Powers:
+-Enderian: much like the Origins version, but can look into the eyes of other enderman, made by @Defhunta 
+
+# Noteable Powers:
 
 -The Zombie bites in melee combat, healing itself as it damages its enemy
 
@@ -34,23 +41,18 @@ Noteable Powers:
 
 -The Ovine can shear itself for one wool once per minute if it is holding shears.
 
-Other Origins also included in this pack because I love them and think they fit:
+# Other Origins also included in this pack made by others:
 
 -Bee by @breedo (with minor naming tweaks)
-
--Elytrian (replaces the Origins Elytrian) by @Defhunta 
 
 -Canine by @Ilovekatesomuch ඞ  (with some minor power tweaks)
 
 -Slimeling by @Jimothy (with minor naming tweaks)
 
--Enderian (replaces the Origins Enderian) by @Defhunta 
-
-Updates:
+# Updates:
 
 -Blazeborn is now passive with other blaze but aggros other blaze if it initiates combat
-
--Reverted Zombie neutraility
+-Zombie: reverted zombie neutrality because it was bugged
  
 If for any reason you don't want a particular origin in this pack you can go to:
 "datapacks" ---> "additional" ---> "data" ---> "origins" ---> "origin_layers" and edit the origin.json file removing the origins you don't want. 
