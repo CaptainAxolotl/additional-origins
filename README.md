@@ -68,6 +68,6 @@ Similarly if you want the Origins version of the origins I edited, you can remov
 
 -Zombie: reverted zombie neutrality because it was bugged
 
-2/17/2021 5:30 p.m. PST 
+2/17/2021 5:50 p.m. PST 
 
 -Ovine: added "Scatter" power
