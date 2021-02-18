@@ -5,6 +5,8 @@ In order to use this datapack with the Origins Mod, simply download the addition
 
 Check out the Origins Mod Discord Server for more datapacks or help here: https://discord.gg/9SXCFKjP
 
+# Origins by Captain Axolotl:
+
 -Zombie: with help from @Lily Arlatto
 
 -Wither Skeleton
