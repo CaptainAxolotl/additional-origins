@@ -1,10 +1,7 @@
 # Additional Origins:
 Additional Origins for the Minecraft Origins Mod
-
 -Zombie: with help from @Lily Arlatto
-
 -Wither Skeleton
-
 -Axolotl
 
 -Vulpine (fox): inspired by Canine by @Ilovekatesomuch ඞ 
