@@ -5,6 +5,10 @@ In order to use this datapack with the Origins Mod, simply download the addition
 
 Check out the Origins Mod Discord Server for more datapacks or help here: https://discord.gg/9SXCFKjP
 
+If for any reason you don't want a particular origin in this pack you can go to:
+"datapacks" ---> "additional" ---> "data" ---> "origins" ---> "origin_layers" and edit the origin.json file removing the origins you don't want. 
+Similarly if you want the Origins version of the origins I edited, you can remove the "origin" folder in the same folder as "origin_layers" or edit the files in the folder as you see fit!
+
 # Origins by Captain Axolotl:
 
 -Zombie: with help from @Lily Arlatto
@@ -60,7 +64,3 @@ Check out the Origins Mod Discord Server for more datapacks or help here: https:
 -Blazeborn is now passive with other blaze but aggros other blaze if it initiates combat
 
 -Zombie: reverted zombie neutrality because it was bugged
- 
-If for any reason you don't want a particular origin in this pack you can go to:
-"datapacks" ---> "additional" ---> "data" ---> "origins" ---> "origin_layers" and edit the origin.json file removing the origins you don't want. 
-Similarly if you want the Origins version of the origins I edited, you can remove the "origin" folder in the same folder as "origin_layers" or edit the files in the folder as you see fit!
