@@ -63,13 +63,32 @@ Similarly if you want a datapack with the original Origins without my edits, use
 	+   Like Water: When underwater, you do not sink to the ground unless you want to.
 	+   Water Vision: You can see perfectly underwater.
 	+   Hold Breath: Press 'G' while underwater to hold your breath for 5 minutes.
-	+/- Natural Regeneration: When taking damage, you often retreat to regenerate. Once every minute if you take damage you gain the Regeneration and Weakness effects for 10 seconds.   
+	+/- Natural Regeneration: When taking damage, you often retreat to regenerate. 
+	    Once every minute if you take damage you gain the Regeneration and Weakness effects for 10 seconds.   
 
 **Vulpine (fox):** inspired by Canine by @Ilovekatesomuch ඞ 
 
+	+   Swift: You are faster than the average human.
+	-   Wild: Due to your wild nature, you prefer the outdoors and feel weakened when you are confined for too long.
+	+   Nocturnal: You can slightly see in the dark when not in water.
+	+   Raw Diet: Raw meats are about as satifying as cooked meat.
+	+   Clever: Your increadible wit and dexterity allow you to avoid certain damage types. (Berry Bushes, Cactus, Magma Blocks, and Lightning don't harm you)
+	+   Sneak Mode: You can press 'G' to enter 'Sneak Mode', turning invisible for 30 seconds. You can do this once every three minutes.
+
 **Leporine (rabbit):**
 
+	+   Swift: You are faster than the average human.
+	-   Wild: Due to your wild nature, you prefer the outdoors and feel weakened when you are confined for too long.
+	-   Vegetarian: You can't digest any meat.
+	+   Strong Ankles: You are able to jump higher by jumping while sprinting.
+	+   Killer Bunny: As a decendant of The Killer Bunny, you are immune to the Thorns enchantment.
+	+   Lucky: You are naturally lucky. You always have the Lucky effect active.
+
 **Ovine (sheep):**
+
+	-   Vegetarian: You can't digest any meat.
+	+   Shear: You have the ability to shear yourself by pressing 'G' while you are holding shears. You can do this once every minute.
+	+   Scatter: When taking significant damage, adrenaline kicks in, giving you a 10 second speed boost. 
 
 # Modified Origins from the Origins Mod:
 
