@@ -6,7 +6,7 @@ In order to use this datapack with the Origins Mod, simply download the addition
 Check out the Origins Mod Discord Server for more datapacks or help here: https://discord.gg/9SXCFKjP
 
 If for any reason you don't want a particular origin in this pack you can go to:
-"additional" ---> "data" ---> "origins" ---> "origin_layers" and edit the origin.json file removing the origins you don't want. Be careful to leave the file in proper JSON format, the most common mistake while editing the file is the accidental removal of a necessary comma. 
+"additional" ---> "data" ---> "origins" ---> "origin_layers" and edit the origin.json file in the txt document editing software of your choice, such as Notepad or Notepad++. Simply delete the lines that include the origins you don't want. Be careful to leave the file in proper JSON format, the most common mistake while editing the file is the accidental removal of a necessary comma. 
 
 Similarly if you want a datapack with the original Origins without my edits, use the additional-excludes-edited-origins.zip datapack instead.
 
