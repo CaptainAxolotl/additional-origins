@@ -72,7 +72,8 @@ Similarly if you want a datapack with the original Origins without my edits, use
 	-   Wild: Due to your wild nature, you prefer the outdoors and feel weakened when you are confined for too long.
 	+   Nocturnal: You can slightly see in the dark when not in water.
 	+   Raw Diet: Raw meats are about as satifying as cooked meat.
-	+   Clever: Your increadible wit and dexterity allow you to avoid certain damage types. (Berry Bushes, Cactus, Magma Blocks, and Lightning don't harm you)
+	+   Clever: Your increadible wit and dexterity allow you to avoid certain damage types. 
+	    (Berry Bushes, Cactus, Magma Blocks, and Lightning don't harm you)
 	+   Sneak Mode: You can press 'G' to enter 'Sneak Mode', turning invisible for 30 seconds. You can do this once every three minutes.
 
 **Leporine (rabbit):**
