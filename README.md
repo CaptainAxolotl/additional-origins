@@ -36,7 +36,16 @@ Similarly if you want a datapack with the original Origins without my edits, use
 
 # Origins by Captain Axolotl:
 
--Zombie: with help from @Lily Arlatto
+**Zombie:** with help from @Lily Arlatto
+	
+	+/- Undead: You are undead: smite effects do extra damage against you and you can breathe underwater.
+	-   Photoallergic: Your undead form burns in the sunlight. Helmets will protect you from the sun.
+	-   Large Appetite: You become hungry more often.
+	-   Carnivore: You can only eat meat.
+	+   Raw Diet: Raw meats are about as satifying as cooked meat.
+	+   Iron Gut: You are immune to food poisoning.
+	+   Bite: You often bite in melee combat, healing yourself.
+	+   True Zombie: Other zombies are passive towards you. 
 
 -Wither Skeleton
 
