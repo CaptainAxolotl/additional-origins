@@ -57,6 +57,14 @@ Similarly if you want a datapack with the original Origins without my edits, use
 
 **Axolotl:**
 
+	+/- Gills: You can breathe underwater, but not on land.
+	+   Aqua Affinity: You may break blocks underwater as others do on land.
+	+   Fins: Your underwater speed in increased.
+	+   Like Water: When underwater, you do not sink to the ground unless you want to.
+	+   Water Vision: You can see perfectly underwater.
+	+   Hold Breath: Press 'G' while underwater to hold your breath for 5 minutes.
+	+/- Natural Regeneration: When taking damage, you often retreat to regenerate. Once every minute if you take damage you gain the Regeneration and Weakness effects for 10 seconds.   
+
 **Vulpine (fox):** inspired by Canine by @Ilovekatesomuch ඞ 
 
 **Leporine (rabbit):**
