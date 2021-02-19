@@ -47,15 +47,21 @@ Similarly if you want a datapack with the original Origins without my edits, use
 	+   Bite: You often bite in melee combat, healing yourself.
 	+   True Zombie: Other zombies are passive towards you. 
 
--Wither Skeleton
+**Wither Skeleton:**
 
--Axolotl
+	+/- Undead: You are undead: smite effects do extra damage against you and you can breathe underwater.
+	-   Nether Inhabitant: Your natural spawn will be in the Nether.
+	+   Fire Immunity: You are immune to all types of fire damage.
+	+   Wither: When you hit an enemy in melee you inflict them with the wither effect.
+	-   Fragile: You have three less hearths of health than humans.
 
--Vulpine (fox): inspired by Canine by @Ilovekatesomuch ඞ 
+**Axolotl:**
 
--Leporine (rabbit)
+**Vulpine (fox):** inspired by Canine by @Ilovekatesomuch ඞ 
 
--Ovine (sheep)
+**Leporine (rabbit):**
+
+**Ovine (sheep):**
 
 # Modified Origins from the Origins Mod:
 
