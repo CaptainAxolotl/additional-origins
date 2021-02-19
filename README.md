@@ -8,27 +8,29 @@ Check out the Origins Mod Discord Server for more datapacks or help here: https:
 If for any reason you don't want a particular origin in this pack you can go to:
 "additional" ---> "data" ---> "origins" ---> "origin_layers" and edit the origin.json file in the txt document editing software of your choice, such as Notepad or Notepad++. Simply delete the lines that include the origins you don't want. Be careful to leave the file in proper JSON format, pay particular close attention to the commas, there should be one after each origin name except the last one in the list. Here is an example of the file at the time of posting for reference:
 
-	"replace": false,	
-	"origins":	
-	[		
-		"elytrian:elytrian",		
-		"additional:merling",		
-		"additional:zombie",		
-		"additional:wither_skeleton",		
-		"additional:axolotl",		
-		"additional:phantom",		
-		"additional:vulpine",		
-		"additional:feline",		
-		"additional:leporine",		
-		"additional:ovine",		
-		"additional:enderian",		
-		"additional:blazeborn",		
-		"bee:bee",		
-		"canine:canine",		
-		"slime:slimeling",		
-		"stray:stray"
-	
-	]
+	{
+		"replace": false,	
+		"origins":	
+		[		
+			"elytrian:elytrian",		
+			"additional:merling",		
+			"additional:zombie",		
+			"additional:wither_skeleton",		
+			"additional:axolotl",		
+			"additional:phantom",		
+			"additional:vulpine",		
+			"additional:feline",		
+			"additional:leporine",		
+			"additional:ovine",		
+			"additional:enderian",		
+			"additional:blazeborn",		
+			"bee:bee",		
+			"canine:canine",		
+			"slime:slimeling",		
+			"stray:stray"
+
+		]
+	}
 
 Similarly if you want a datapack with the original Origins without my edits, use the additional-excludes-edited-origins.zip datapack instead.
 
