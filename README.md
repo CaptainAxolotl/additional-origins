@@ -8,7 +8,7 @@ Check out the Origins Mod Discord Server for more datapacks or help here: https:
 If for any reason you don't want a particular origin in this pack you can go to:
 "additional" ---> "data" ---> "origins" ---> "origin_layers" and edit the origin.json file in the txt document editing software of your choice, such as Notepad or Notepad++. Simply delete the lines that include the origins you don't want. Be careful to leave the file in proper JSON format, pay particular close attention to the commas, there should be one after each origin name except the last one in the list. Here is an example of the file at the time of posting for reference:
 
-{
+{ \n
 	"replace": false,
 	"origins":
 	[
