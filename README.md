@@ -74,7 +74,7 @@ Check out the Origins Mod Discord Server for more datapacks or help here: https:
 **Creepling:** inspired by but different from the Creeperling by @Red Hunter
 
 	+   Prime: Press 'G' to prime yourself and explode after 3 seconds.
-	-   Ailurophobia: You are deeply afraid of cats and being near them weakens you and makes you nauseous.
+	-   Felinophobia: You are deeply afraid of cats and being near them weakens you and makes you nauseous.
 	+   Blast Resistance: You are resistant to blast damage.
 	-   Volatile: You explode when set on fire.
 	+   True Creeper: Creepers are passive towards you.
@@ -213,3 +213,7 @@ If for any reason you don't want a particular origin in this pack first unzip th
 **2/20/2021 2:50 a.m PST**
 
 -Creepling: added Ailurophobia description
+
+**2/20/2021 3:20 a.m PST**
+
+-Creepling: renamed Ailorophobia to Felinophobia, description wording changes, now afraid of ocelots
