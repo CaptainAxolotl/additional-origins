@@ -73,9 +73,10 @@ Check out the Origins Mod Discord Server for more datapacks or help here: https:
 
 **Creepling:** inspired by but different from the Creeperling by @Red Hunter
 
-	+   Prime: Press 'G' to prime yourself and explode after 3 seconds.
+	+   Prime: Press 'G' to prime yourself and explode after 3 seconds, you are not immune to the 
+	    damage you cause.
 	-   Felinophobia: You are deeply afraid of cats and being near them weakens you and makes you nauseous.
-	+   Blast Resistance: You are resistant to blast damage.
+	+   Blast Resistance: You are resistant to blast damage, but not immune.
 	-   Volatile: You explode when set on fire.
 	+   True Creeper: Creepers are passive towards you.
 
