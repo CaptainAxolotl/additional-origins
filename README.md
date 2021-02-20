@@ -174,3 +174,4 @@ If for any reason you don't want a particular origin in this pack first unzip th
 	}
 
 # Updates:
+https://github.com/CaptainAxolotl/additional-origins/wiki/Updates
