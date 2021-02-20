@@ -16,7 +16,7 @@ Check out the Origins Mod Discord Server for more datapacks or help here: https:
 	+   Raw Diet: Raw meats are about as satifying as cooked meat.
 	+   Iron Gut: You are immune to food poisoning.
 	+   Bite: You often bite in melee combat, healing yourself.
-	+   True Zombie: Other zombies are passive towards you. 
+	+   True Zombie: Zombies are passive towards you. 
 
 **Wither Skeleton:**
 
@@ -73,6 +73,7 @@ Check out the Origins Mod Discord Server for more datapacks or help here: https:
 	+   Prime: Press 'G' to prime yourself and explode after 3 seconds.
 	+   Blast Resistance: You are resistant to blast damage.
 	-   Volatile: You explode when set on fire.
+	+   True Creeper: Creepers are passive towards you.
 
 # Modified Origins from the Origins Mod:
 
