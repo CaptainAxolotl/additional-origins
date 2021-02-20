@@ -75,12 +75,14 @@ Similarly if you want a datapack with the original Origins without my edits, use
 	+   Raw Diet: Raw meats are about as satifying as cooked meat.
 	+   Clever: Your increadible wit and dexterity allow you to avoid certain damage types. 
 	    (Berry Bushes, Cactus, Magma Blocks, and Lightning don't harm you)
-	+   Sneak Mode: You can press 'G' to enter 'Sneak Mode', turning invisible for 30 seconds. You can do this once every three minutes.
+	+   Sneak Mode: You can press 'G' to enter 'Sneak Mode', turning invisible for 30 seconds. 
+	    You can do this once every three minutes.
 
 **Leporine (rabbit):**
 
 	+   Swift: You are faster than the average human.
-	-   Wild: Due to your wild nature, you prefer the outdoors and feel weakened when you are confined for too long.
+	-   Wild: Due to your wild nature, you prefer the outdoors and feel weakened when you are 
+	    confined for too long.
 	-   Vegetarian: You can't digest any meat.
 	+   Strong Ankles: You are able to jump higher by jumping while sprinting.
 	+   Killer Bunny: As a decendant of The Killer Bunny, you are immune to the Thorns enchantment.
@@ -89,7 +91,8 @@ Similarly if you want a datapack with the original Origins without my edits, use
 **Ovine (sheep):**
 
 	-   Vegetarian: You can't digest any meat.
-	+   Shear: You have the ability to shear yourself by pressing 'G' while you are holding shears. You can do this once every minute.
+	+   Shear: You have the ability to shear yourself by pressing 'G' while you are holding shears. 
+	    You can do this once every minute.
 	+   Scatter: When taking significant damage, adrenaline kicks in, giving you a 10 second speed boost. 
 
 # Modified Origins from the Origins Mod:
@@ -144,9 +147,11 @@ Similarly if you want a datapack with the original Origins without my edits, use
 
 	+/- Undead: You are undead: smite effects do extra damage against you and you can breathe underwater.
 	-   Photoallergic: Your undead form burns in the sunlight. Helmets will protect you from the sun.
-	+   Fatiguing Arrows: You channel the cold essence of your body into the arrows you shoot, causing their target to be slowed.
+	+   Fatiguing Arrows: You channel the cold essence of your body into the arrows you shoot, 
+	    causing their target to be slowed.
 	-   Need for Cold: You slow down while you are not in your preferred environment.
-	+   Unnatural Traction: You have spent all your life in icy environments, and you are able to glide on the ice much faster than most.
+	+   Unnatural Traction: You have spent all your life in icy environments, 
+	    and you are able to glide on the ice much faster than most.
 	+   True Skeleton: Other skeletons are passive towards you.
 
 # Updates:
