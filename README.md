@@ -122,7 +122,8 @@ Similarly if you want a datapack with the original Origins without my edits, use
 	+   Bee's Knees: You are able to jump higher by jumping while sprinting.
 	-   Vegetarian: You can't digest any meat.
 	-   Hydrophobia: You receive damage over time while in contact with water.
-	+   Stinger: You use your stinger to apply poison to enemies, but luckily since you're half human it doesn't kill you.
+	+   Stinger: You use your stinger to apply poison to enemies, 
+	    but luckily since you're half human it doesn't kill you.
 
 **Canine** by @Ilovekatesomuch ඞ  (with some minor power tweaks)
 
