@@ -187,4 +187,4 @@ Similarly if you want a datapack with the original Origins without my edits, use
 
 **2/19/2021 4:30 p.m PST**
 
--Axolotl/Merling: added conduit_power_on_land power which allows players to be affected by conduits while not touching water or rain.
+-Axolotl/Merling: added conduit_power_on_land power which allows players to be affected by conduits while not touching water or rain
