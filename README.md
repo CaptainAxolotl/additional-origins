@@ -217,4 +217,4 @@ If for any reason you don't want a particular origin in this pack first unzip th
 
 **2/20/2021 3:20 a.m PST**
 
--Creepling: renamed Ailorophobia to Felinophobia, description wording changes, now afraid of ocelots
+-Creepling: renamed Ailurophobia to Felinophobia, description wording changes, now afraid of ocelots
