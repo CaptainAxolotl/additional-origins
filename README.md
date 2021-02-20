@@ -40,7 +40,7 @@ Similarly if you want a datapack with the original Origins without my edits, use
 	
 	+/- Undead: You are undead: smite effects do extra damage against you and you can breathe underwater.
 	-   Photoallergic: Your undead form burns in the sunlight. Helmets will protect you from the sun.
-	-   Large Appetite: You become hungry more often.
+	-   Large Appetite: You exhaust much quicker than others, thus requiring you to eat more.
 	-   Carnivore: You can only eat meat.
 	+   Raw Diet: Raw meats are about as satifying as cooked meat.
 	+   Iron Gut: You are immune to food poisoning.
@@ -53,6 +53,7 @@ Similarly if you want a datapack with the original Origins without my edits, use
 	-   Nether Inhabitant: Your natural spawn will be in the Nether.
 	+   Fire Immunity: You are immune to all types of fire damage.
 	+   Wither: When you hit an enemy in melee you inflict them with the wither effect.
+	+   True Skeleton: Other skeletons are passive towards you.
 	-   Fragile: You have three less hearths of health than humans.
 
 **Axolotl:**
@@ -109,11 +110,44 @@ Similarly if you want a datapack with the original Origins without my edits, use
 
 **Bee** by @breedo (with minor naming tweaks)
 
+	+   Bee Appetite: As a bee you love to eat flowers, so you can now consume all types of flower for hunger, saturation, 
+	    and an effect depending on the flower.
+	-   Need for Mobility: You can not wear any heavy armor (armor with protection values higher than chainmail).
+	-   Brittle Bones: You take more damage from falling and flying into blocks.
+	+   Featherweight: You fall as gently to the ground as a feather would, unless you sneak.
+	+   Bee's Knees: You are able to jump higher by jumping while sprinting.
+	-   Vegetarian: You can't digest any meat.
+	-   Hydrophobia: You receive damage over time while in contact with water.
+	+   Stinger: You use your stinger to apply poison to enemies, but luckily since you're half human it doesn't kill you.
+
 **Canine** by @Ilovekatesomuch ඞ  (with some minor power tweaks)
 
+	-   Wild: Due to your wild nature, you prefer the outdoors and feel weakened when you are confined for too long.
+	+   Nocturnal: You can slightly see in the dark when not in water. 
+	-   Carnivore: You can only eat meat.
+	-   Large Appetite: You exhaust much quicker than others, thus requiring you to eat more.
+	+   Raw Diet: Raw meats are about as satifying as cooked meat.
+	+   Iron Gut: You are immune to food poisoning.
+	+   Howl Instinct: Press 'G' to call upon your Canine instincts, boosting your strength and speed in a frenzied rage.
+	    You gain Strength, Speed, and Resistance for 10 seconds, in addition, mobs around you glow.
+	    You can use this ability once every three minutes.
+
 **Slimeling** by @Jimothy (with minor naming tweaks)
+	
+	+   Bouncy: Your rubbery body anables larger jumps.
+	-   Slime for Legs: You can't walk.
+	+/- Low Density: Your low density makes you dissolve in water, but enables rapid momentum building while bouncing.
+	-   Flammable: Your goopy, oily body is prone to ignition, causing you to take increased fire damage.
+	+   Acrobatics: You never take fall damage, no matter from which height you fall.
 
 **Strayborn** by @Joe (with minor power tweaks)
+
+	+/- Undead: You are undead: smite effects do extra damage against you and you can breathe underwater.
+	-   Photoallergic: Your undead form burns in the sunlight. Helmets will protect you from the sun.
+	+   Fatiguing Arrows: You channel the cold essence of your body into the arrows you shoot, causing their target to be slowed.
+	-   Need for Cold: You slow down while you are not in your preferred environment.
+	+   Unnatural Traction: You have spent all your life in icy environments, and you are able to glide on the ice much faster than most.
+	+   True Skeleton: Other skeletons are passive towards you.
 
 # Updates:
 
@@ -132,3 +166,9 @@ Similarly if you want a datapack with the original Origins without my edits, use
 -Axolotl/Merling: removed particle effects from Hold Breath power
 
 -Added Strayborn origin by @Joe
+
+**2/19/2021 4:20 p.m PST**
+
+-Wither Skeleton: Other skeletons are passive towards you
+
+-Grammar and naming tweaks to various origins
