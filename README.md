@@ -70,7 +70,8 @@ Similarly if you want a datapack with the original Origins without my edits, use
 **Vulpine (fox):** inspired by Canine by @Ilovekatesomuch ඞ 
 
 	+   Swift: You are faster than the average human.
-	-   Wild: Due to your wild nature, you prefer the outdoors and feel weakened when you are confined for too long.
+	-   Wild: Due to your wild nature, you prefer the outdoors and feel weakened when you are 
+	    confined for too long.
 	+   Nocturnal: You can slightly see in the dark when not in water.
 	+   Raw Diet: Raw meats are about as satifying as cooked meat.
 	+   Clever: Your increadible wit and dexterity allow you to avoid certain damage types. 
@@ -125,7 +126,8 @@ Similarly if you want a datapack with the original Origins without my edits, use
 
 **Canine** by @Ilovekatesomuch ඞ  (with some minor power tweaks)
 
-	-   Wild: Due to your wild nature, you prefer the outdoors and feel weakened when you are confined for too long.
+	-   Wild: Due to your wild nature, you prefer the outdoors and feel weakened when you are 
+	    confined for too long.
 	+   Nocturnal: You can slightly see in the dark when not in water. 
 	-   Carnivore: You can only eat meat.
 	-   Large Appetite: You exhaust much quicker than others, thus requiring you to eat more.
