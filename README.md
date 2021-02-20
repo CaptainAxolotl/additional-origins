@@ -199,8 +199,10 @@ Similarly if you want a datapack with the original Origins without my edits, use
 
 **2/20/2021 12:00 a.m PST**
 
--Axolotl: is a carnivore
+-Axolotl: is now a carnivore
 
 -Merling: dried kelp gives more food and saturation value
 
 -Added Creepling origin
+
+-Strayborn: Need for Cold is now extended to all snowy biomes
