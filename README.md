@@ -24,7 +24,7 @@ Check out the Origins Mod Discord Server for more datapacks or help here: https:
 	-   Nether Inhabitant: Your natural spawn will be in the Nether.
 	+   Fire Immunity: You are immune to all types of fire damage.
 	+   Wither: When you hit an enemy in melee you inflict them with the wither effect.
-	+   True Skeleton: Other skeletons are passive towards you.
+	+   True Skeleton: Skeletons are passive towards you.
 	-   Fragile: You have three less hearths of health than humans.
 
 **Axolotl:**
