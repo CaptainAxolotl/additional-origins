@@ -30,6 +30,7 @@ Check out the Origins Mod Discord Server for more datapacks or help here: https:
 **Axolotl:**
 
 	+/- Gills: You can breathe underwater, but not on land.
+	-   Carnivore: You can only eat meat.
 	+   Aqua Affinity: You may break blocks underwater as others do on land.
 	+   Fins: Your underwater speed in increased.
 	+   Like Water: When underwater, you do not sink to the ground unless you want to.
@@ -67,11 +68,17 @@ Check out the Origins Mod Discord Server for more datapacks or help here: https:
 	    You can do this once every minute.
 	+   Scatter: When taking significant damage, adrenaline kicks in, giving you a 10 second speed boost. 
 
+**Creepling:** inspired by but different from the Creeperling by @Red Hunter
+
+	+   Prime: Press 'G' to prime yourself and explode after 3 seconds.
+	+   Blast Resistance: You are resistant to blast damage.
+	-   Volatile: You explode when set on fire.
+
 # Modified Origins from the Origins Mod:
 
 **Phantom:** can see farther while phasing underground
 
-**Merling:** can press G while under water to hold their breath for 5 minutes
+**Merling:** can press G while under water to hold their breath for 5 minutes, dried kelp gives more food and saturation value
 
 **Feline:** the mining restriction has been removed
 
@@ -189,3 +196,11 @@ Similarly if you want a datapack with the original Origins without my edits, use
 **2/19/2021 4:30 p.m PST**
 
 -Axolotl/Merling: added conduit_power_on_land power which allows players to be affected by conduits while not touching water or rain
+
+**2/20/2021 12:00 a.m PST**
+
+-Axolotl: is a carnivore
+
+-Merling: dried kelp gives more food and saturation value
+
+-Added Creepling origin
