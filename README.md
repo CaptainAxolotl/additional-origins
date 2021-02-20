@@ -5,35 +5,6 @@ In order to use this datapack with the Origins Mod, simply download the addition
 
 Check out the Origins Mod Discord Server for more datapacks or help here: https://discord.gg/9SXCFKjP
 
-If for any reason you don't want a particular origin in this pack first unzip the datapack you are using then go to:
-"additional" ---> "data" ---> "origins" ---> "origin_layers" and edit the origin.json file in the txt document editing software of your choice, such as Notepad or Notepad++. Simply delete the lines that include the origins you don't want. Delete the original zip file and keep the unzipped one that you edited. Be careful to leave the origin.json file in proper JSON format, pay particular close attention to the commas, there should be one after each origin name except the last one in the list. Here is an example of the file at the time of posting for reference:
-
-	{
-		"replace": false,	
-		"origins":	
-		[		
-			"elytrian:elytrian",		
-			"additional:merling",		
-			"additional:zombie",		
-			"additional:wither_skeleton",		
-			"additional:axolotl",		
-			"additional:phantom",		
-			"additional:vulpine",		
-			"additional:feline",		
-			"additional:leporine",		
-			"additional:ovine",		
-			"additional:enderian",		
-			"additional:blazeborn",		
-			"bee:bee",		
-			"canine:canine",		
-			"slime:slimeling",		
-			"stray:stray"
-
-		]
-	}
-
-Similarly if you want a datapack with the original Origins without my edits, use the additional-excludes-edited-origins.zip datapack instead.
-
 # Origins by Captain Axolotl:
 
 **Zombie:** with help from @Lily Arlatto
@@ -158,6 +129,37 @@ Similarly if you want a datapack with the original Origins without my edits, use
 	+   Unnatural Traction: You have spent all your life in icy environments, 
 	    and you are able to glide on the ice much faster than most.
 	+   True Skeleton: Other skeletons are passive towards you.
+
+# Modifying my datapack
+
+If for any reason you don't want a particular origin in this pack first unzip the datapack you are using then go to:
+"additional" ---> "data" ---> "origins" ---> "origin_layers" and edit the origin.json file in the txt document editing software of your choice, such as Notepad or Notepad++. Simply delete the lines that include the origins you don't want. Delete the original zip file and keep the unzipped one that you edited. Be careful to leave the origin.json file in proper JSON format, pay particular close attention to the commas, there should be one after each origin name except the last one in the list. Here is an example of the file at the time of posting for reference:
+
+	{
+		"replace": false,	
+		"origins":	
+		[		
+			"elytrian:elytrian",		
+			"additional:merling",		
+			"additional:zombie",		
+			"additional:wither_skeleton",		
+			"additional:axolotl",		
+			"additional:phantom",		
+			"additional:vulpine",		
+			"additional:feline",		
+			"additional:leporine",		
+			"additional:ovine",		
+			"additional:enderian",		
+			"additional:blazeborn",		
+			"bee:bee",		
+			"canine:canine",		
+			"slime:slimeling",		
+			"stray:stray"
+
+		]
+	}
+
+Similarly if you want a datapack with the original Origins without my edits, use the additional-excludes-edited-origins.zip datapack instead.
 
 # Updates:
 
