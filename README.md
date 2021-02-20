@@ -209,3 +209,7 @@ If for any reason you don't want a particular origin in this pack first unzip th
 -Added Creepling origin
 
 -Strayborn: Need for Cold is now extended to all snowy biomes
+
+**2/20/2021 2:50 a.m PST**
+
+-Creepling: added Ailurophobia description
