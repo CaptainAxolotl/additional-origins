@@ -69,15 +69,15 @@ Check out the Origins Mod Discord Server for more datapacks or help here: https:
 
 # Modified Origins from the Origins Mod:
 
-**Phantom:** much like the Origins version but can see farther while phasing underground
+**Phantom:** can see farther while phasing underground
 
-**Merling:** much like the Origins version but can press G while under water to hold their breath for 5 minutes
+**Merling:** can press G while under water to hold their breath for 5 minutes
 
-**Feline:** much like the Origins version but the mining restriction has been removed
+**Feline:** the mining restriction has been removed
 
-**Blazeborn:** much like the Origins version but is passive with other blaze
+**Blazeborn:** is passive with other blaze
 
-**Elytrian:** much like the Origins version but flight power works differently: Gift of the Winds is now gone, but has been replaced with Flight:
+**Elytrian:** flight power works differently: Gift of the Winds is now gone, but has been replaced with Flight:
 Flight - Sprinting while gliding will increase the Elytrians forward velocity, allowing launches off the ground like fireworks! This ability has a meter, which will slowly regenerate over time. Using this ability also consumes hunger over time. Made by @Defhunta
 
 **Enderian:** much like the Origins version, but can look into the eyes of other enderman without angering them, made by @Defhunta 
