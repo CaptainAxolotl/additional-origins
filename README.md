@@ -177,3 +177,7 @@ Similarly if you want a datapack with the original Origins without my edits, use
 -Wither Skeleton: Other skeletons are passive towards you
 
 -Grammar and naming tweaks to various origins
+
+**2/19/2021 4:30 p.m PST**
+
+-Axolotl/Merling: added conduit_power_on_land
