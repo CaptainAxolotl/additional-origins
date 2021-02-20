@@ -114,8 +114,8 @@ Similarly if you want a datapack with the original Origins without my edits, use
 
 **Bee** by @breedo (with minor naming tweaks)
 
-	+   Bee Appetite: As a bee you love to eat flowers, so you can now consume all types of flower for hunger, saturation, 
-	    and an effect depending on the flower.
+	+   Bee Appetite: As a bee you love to eat flowers, so you can now consume all types of 
+	    flower for hunger, saturation, and an effect depending on the flower.
 	-   Need for Mobility: You can not wear any heavy armor (armor with protection values higher than chainmail).
 	-   Brittle Bones: You take more damage from falling and flying into blocks.
 	+   Featherweight: You fall as gently to the ground as a feather would, unless you sneak.
@@ -133,15 +133,16 @@ Similarly if you want a datapack with the original Origins without my edits, use
 	-   Large Appetite: You exhaust much quicker than others, thus requiring you to eat more.
 	+   Raw Diet: Raw meats are about as satifying as cooked meat.
 	+   Iron Gut: You are immune to food poisoning.
-	+   Howl Instinct: Press 'G' to call upon your Canine instincts, boosting your strength and speed in a frenzied rage.
-	    You gain Strength, Speed, and Resistance for 10 seconds, in addition, mobs around you glow.
-	    You can use this ability once every three minutes.
+	+   Howl Instinct: Press 'G' to call upon your Canine instincts, boosting your strength and 
+	    speed in a frenzied rage. You gain Strength, Speed, and Resistance for 10 seconds, 
+	    in addition, mobs around you glow. You can use this ability once every three minutes.
 
 **Slimeling** by @Jimothy (with minor naming tweaks)
 	
 	+   Bouncy: Your rubbery body anables larger jumps.
 	-   Slime for Legs: You can't walk.
-	+/- Low Density: Your low density makes you dissolve in water, but enables rapid momentum building while bouncing.
+	+/- Low Density: Your low density makes you dissolve in water, but enables rapid 
+	    momentum building while bouncing.
 	-   Flammable: Your goopy, oily body is prone to ignition, causing you to take increased fire damage.
 	+   Acrobatics: You never take fall damage, no matter from which height you fall.
 
