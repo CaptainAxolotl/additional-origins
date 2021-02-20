@@ -116,7 +116,8 @@ Similarly if you want a datapack with the original Origins without my edits, use
 
 	+   Bee Appetite: As a bee you love to eat flowers, so you can now consume all types of 
 	    flower for hunger, saturation, and an effect depending on the flower.
-	-   Need for Mobility: You can not wear any heavy armor (armor with protection values higher than chainmail).
+	-   Need for Mobility: You can not wear any heavy armor 
+	    (armor with protection values higher than chainmail).
 	-   Brittle Bones: You take more damage from falling and flying into blocks.
 	+   Featherweight: You fall as gently to the ground as a feather would, unless you sneak.
 	+   Bee's Knees: You are able to jump higher by jumping while sprinting.
