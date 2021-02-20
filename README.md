@@ -137,7 +137,7 @@ Flight - Sprinting while gliding will increase the Elytrians forward velocity, a
 	-   Need for Cold: You slow down while you are not in your preferred environment.
 	+   Unnatural Traction: You have spent all your life in icy environments, 
 	    and you are able to glide on the ice much faster than most.
-	+   True Skeleton: Other skeletons are passive towards you.
+	+   True Skeleton: Skeletons are passive towards you.
 
 # Modifying my datapack
 
@@ -190,7 +190,7 @@ Similarly if you want a datapack with the original Origins without my edits, use
 
 **2/19/2021 4:20 p.m PST**
 
--Wither Skeleton: Other skeletons are passive towards you
+-Wither Skeleton: Skeletons are passive towards you
 
 -Grammar and naming tweaks to various origins
 
