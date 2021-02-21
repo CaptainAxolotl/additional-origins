@@ -87,7 +87,7 @@ Feel free to message me on Discord with any comments or questions: CaptainAxolot
 
 # Modified Origins from the Origins Mod:
 
-**Phantom:** can see farther while phasing underground
+**Phantom:** can see farther while phasing underground and has slow falling
 
 **Merling:** can press G while under water to hold their breath for 5 minutes, dried kelp gives more food and saturation value
 
