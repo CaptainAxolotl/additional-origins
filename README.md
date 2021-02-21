@@ -11,6 +11,8 @@ For help modifying my datapack go here: https://github.com/CaptainAxolotl/additi
 
 Check out the Origins Mod Discord Server for more datapacks or help here: https://discord.gg/9SXCFKjP
 
+Feel free to message me on Discord with any comments or questions: CaptainAxolotl#9966
+
 # Origins by Captain Axolotl:
 
 **Zombie:** with help from @Lily Arlatto
