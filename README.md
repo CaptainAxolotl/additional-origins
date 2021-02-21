@@ -32,6 +32,7 @@ Feel free to message me on Discord with any comments or questions: CaptainAxolot
 	-   Nether Inhabitant: Your natural spawn will be in the Nether.
 	+   Fire Immunity: You are immune to all types of fire damage.
 	+   Wither: When you hit an enemy in melee you inflict them with the wither effect.
+	+   Slender Body: You can reach blocks and entities further away.
 	+   True Skeleton: Skeletons are passive towards you.
 	-   Fragile: You have three less hearths of health than humans.
 
