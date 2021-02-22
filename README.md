@@ -86,6 +86,13 @@ Feel free to message me on Discord with any comments or questions: CaptainAxolot
 	-   Volatile: You explode when set on fire.
 	+   True Creeper: Creepers are passive towards you.
 
+**Bovine (cow):**
+
+	-   Vegetarian: You can't digest any meat.
+	+   Milk: You have the ability to milk yourself by pressing 'G' while you are holding an empty bucket. 
+	    You can do this once every minute.
+	+   Scatter: When taking significant damage, adrenaline kicks in, giving you a 10 second speed boost. 
+
 # Modified Origins from the Origins Mod:
 
 **Phantom:** can see farther while phasing underground and has slow falling
