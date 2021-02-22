@@ -73,6 +73,7 @@ Feel free to message me on Discord with any comments or questions: CaptainAxolot
 **Ovine (sheep):**
 
 	-   Vegetarian: You can't digest any meat.
+        -   Large Appetite: You exhaust much quicker than others, thus requiring you to eat more.
 	+   Shear: You have the ability to shear yourself by pressing 'G' while you are holding shears. 
 	    You can do this once every minute.
 	+   Scatter: When taking significant damage, adrenaline kicks in, giving you a 10 second speed boost. 
@@ -89,9 +90,16 @@ Feel free to message me on Discord with any comments or questions: CaptainAxolot
 **Bovine (cow):**
 
 	-   Vegetarian: You can't digest any meat.
+        -   Large Appetite: You exhaust much quicker than others, thus requiring you to eat more.
 	+   Milk: You have the ability to milk yourself by pressing 'G' while you are holding an empty bucket. 
 	    You can do this once every minute.
 	+   Scatter: When taking significant damage, adrenaline kicks in, giving you a 10 second speed boost. 
+
+**Porcine (pig):**
+
+    +   Iron Gut: You are immune to food poisoning.
+    -   Large Appetite: You exhaust much quicker than others, thus requiring you to eat more.
+    +   Scatter: When taking significant damage, adrenaline kicks in, giving you a 10 second speed boost. 
 
 # Modified Origins from the Origins Mod:
 
