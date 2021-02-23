@@ -114,7 +114,7 @@ Feel free to message me on Discord with any comments or questions: CaptainAxolot
 **Blazeborn:** is passive with other blaze
 
 **Elytrian:** flight power works differently: Gift of the Winds is now gone, but has been replaced with Flight:
-Flight - Sprinting while gliding will increase the Elytrians forward velocity, allowing launches off the ground like fireworks! This ability has a meter, which will slowly regenerate over time. Using this ability also consumes hunger over time. Made by @Defhunta
+Flight - Pressing 'G' while gliding will increase the Elytrians forward velocity, allowing launches off the ground like fireworks! This ability has a meter, which will slowly regenerate over time. Using this ability also consumes hunger over time. Made by @Defhunta
 
 **Enderian:** can look into the eyes of other enderman without angering them, made by @Defhunta 
 
