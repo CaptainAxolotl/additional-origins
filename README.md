@@ -7,6 +7,8 @@ In order to use this datapack with the Origins Mod, simply download the addition
 
 If you want a datapack with the original Origins without my edits, use the additional-excludes-edited-origins.zip datapack instead.
 
+If you want a datapack with only the original Origins with my edits, use the only-edited-origins.zip datapack.
+
 For help modifying my datapack go here: https://github.com/CaptainAxolotl/additional-origins/wiki/Modifying-my-datapack
 
 Check out the Origins Mod Discord Server for more datapacks or help here: https://discord.gg/9SXCFKjP
