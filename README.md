@@ -13,6 +13,9 @@ If you want a datapack with the original Origins without my edits, use the addit
 
 If you want a datapack with only the original Origins with my edits, use the only-edited-origins.zip datapack.
 
+Some of the origins use minecraft functions which I heard may cause problems on some multiplayer servers. If this is happening you you, I have a version called 
+additional-server-friendly.zip that removes the origins which may cause problems. The origins removed: creepling, bovine, additional: enderian (the original enderian is included)
+
 For help modifying my datapack go here: https://github.com/CaptainAxolotl/additional-origins/wiki/Modifying-my-datapack
 
 Check out the Origins Mod Discord Server for more datapacks or help here: https://discord.gg/9SXCFKjP
