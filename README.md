@@ -52,7 +52,11 @@ Feel free to message me on Discord with any comments or questions: CaptainAxolot
 	+   Water Vision: You can see perfectly underwater.
 	+   Hold Breath: Press 'G' while underwater to hold your breath for 5 minutes.
 	+/- Natural Regeneration: When taking damage, you often retreat to regenerate. 
-	    Once every minute if you take damage you gain the Regeneration and Weakness effects for 10 seconds.   
+	    Once every minute if you take damage you gain the Regeneration and Weakness effects for 10 seconds. 
+	-   Fragile: You have three less hearts of health than a human
+	-   Sealegs: You are slower on land.
+	+/- Small Axolotl: You are very small.
+	+   Mighty Hunter: You deal extra damage in combat.
 
 **Vulpine (fox):** inspired by Canine by @Ilovekatesomuch ඞ 
 
