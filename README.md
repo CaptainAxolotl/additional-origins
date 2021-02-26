@@ -147,15 +147,6 @@ Flight - Pressing 'G' while gliding will increase the Elytrians forward velocity
 	    speed in a frenzied rage. You gain Strength, Speed, and Resistance for 10 seconds, 
 	    in addition, mobs around you glow. You can use this ability once every three minutes.
 
-**Slimeling** by @Jimothy (with minor naming tweaks)
-	
-	+   Bouncy: Your rubbery body anables larger jumps.
-	-   Slime for Legs: You can't walk.
-	+/- Low Density: Your low density makes you dissolve in water, but enables rapid 
-	    momentum building while bouncing.
-	-   Flammable: Your goopy, oily body is prone to ignition, causing you to take increased fire damage.
-	+   Acrobatics: You never take fall damage, no matter from which height you fall.
-
 **Strayborn** by @Joe (with minor power tweaks)
 
 	+/- Undead: You are undead: smite effects do extra damage against you and you can breathe underwater.
