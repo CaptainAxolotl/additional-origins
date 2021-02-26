@@ -7,7 +7,7 @@ https://www.curseforge.com/minecraft/mc-mods/origins
 
 https://www.curseforge.com/minecraft/mc-mods/extra-origins
 
-In order to use this datapack with the Origins Mod, simply download the additional.zip file and put in your minecraft world's datapacks folder, no unzipping required! For help on how to do this visit: https://minecraft.gamepedia.com/Tutorials/Installing_a_data_pack
+In order to use this datapack simply download the additional.zip file and put in your minecraft world's datapacks folder, no unzipping required! For help on how to do this visit: https://minecraft.gamepedia.com/Tutorials/Installing_a_data_pack
 
 If you want a datapack with the original Origins without my edits, use the additional-excludes-edited-origins.zip datapack instead.
 
