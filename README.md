@@ -59,7 +59,7 @@ Feel free to message me on Discord with any comments or questions: CaptainAxolot
 	-   Fragile: You have three less hearts of health than a human
 	-   Sealegs: You are slower on land.
 	+/- Small Axolotl: You are very small.
-	+   Mighty Hunter: You deal extra damage in combat.
+	+   Mighty Hunter: You deal extra damage in underwater combat.
 
 **Vulpine (fox):** inspired by Canine by @Ilovekatesomuch ඞ 
 
